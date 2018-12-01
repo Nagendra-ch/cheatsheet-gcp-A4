@@ -25,6 +25,7 @@ File me [[https://github.com/dennyzhang/cheatsheet-docker-A4/issues][Issues]] or
 | Name                     | Summary                                                                  |
 |--------------------------+--------------------------------------------------------------------------|
 | Official Doc             | [[https://cloud.google.com/sdk/gcloud/reference/][Link: gcloud reference]], [[https://cloud.google.com/storage/docs/gsutil][Link: gsutil tool]]                                |
+| Installation             | [[https://cloud.google.com/sdk/docs/quickstart-linux][Link: Install gcloud]], [[https://cloud.google.com/storage/docs/gsutil_install][Link: Install gsutil]]                               |
 | Check version & settings | =gcloud version=, =gcloud info=, =gcloud components list=                |
 | Init profile             | =gcloud init= This might ask you to open an OpenID URL                   |
 | List all zones           | =gcloud compute zones list=                                              |
@@ -498,3 +499,5 @@ https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/wordpress
 * TODO [#A] doc: how much it cost to download 10GB data from GCP bucket? :noexport:
 * TODO [#A] Try GCP stack-driver                                   :noexport:
 * TODO GKE On-Prem: https://cloud.google.com/gke-on-prem/          :noexport:
+* #  --8<-------------------------- separator ------------------------>8-- :noexport:
+* TODO [#A] grant vmware bucket access to a key                    :noexport:
